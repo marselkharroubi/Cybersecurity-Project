@@ -1,4 +1,4 @@
-symmetric code
+#symmetric code
 
 from cryptography.fernet import Fernet
 key = Fernet.generate_key()
