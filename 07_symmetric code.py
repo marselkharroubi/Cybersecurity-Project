@@ -11,9 +11,9 @@ print("Original Message:", message)
 print("Encrypted Message:", encrypted_message.decode())
 print("Decrypted Message:", decrypted_message.decode())
 
-output
+#output
 
-Shared Key: <generated key>
-Original Message: Hello, World!
-Encrypted Message: gAAAAAB...
-Decrypted Message: Hello, World!
+#Shared Key: <generated key>
+#Original Message: Hello, World!
+#Encrypted Message: gAAAAAB...
+#Decrypted Message: Hello, World!
